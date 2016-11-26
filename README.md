@@ -1,2 +1,2 @@
 # gitoonet
-stay tune :panda_face:
+stay tuned :panda_face:
