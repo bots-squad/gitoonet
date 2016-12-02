@@ -1,0 +1,27 @@
+{
+  "name": "gitoonet",
+  "version": "1.0.0",
+  "description": "stay tuned :panda_face:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bots-squad/gitoonet.git"
+  },
+  "author": "@k33g_org",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bots-squad/gitoonet/issues"
+  },
+  "homepage": "https://github.com/bots-squad/gitoonet#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "git-http-backend": "^1.0.2",
+    "node-fetch": "^1.6.3",
+    "shelljs": "^0.7.5",
+    "uuid": "^3.0.0"
+  }
+}
