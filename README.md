@@ -1,6 +1,10 @@
 # gitoonet
 
-stay tuned :panda_face: - v1.0.0 - :construction:
+stay tuned :panda_face: - v1.1.0 - :construction:
+
+## previous versions:
+
+- https://github.com/bots-squad/gitoonet/releases/tag/v1.0.0
 
 ## What? Why?
 
