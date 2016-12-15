@@ -1,5 +1,24 @@
+# launcher
+# go.js
+
+# shared repositories
+repos/*
+!repos/init-bare-repo.sh
+!repos/README.md
+
+# sandbox
+sandbox/babs/*
+sandbox/buster/*
+!sandbox/babs/*.sh
+!sandbox/babs/README.md
+!sandbox/buster/*.sh
+!sandbox/buster/README.md
+
+# things
+articles/
+.idea/
 node_modules/
 npm-debug.log
 .DS_Store
-sandbox/
-RSRC.md
+rsrc/
+TODO.md
