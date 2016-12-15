@@ -19,8 +19,12 @@
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
+    "express-jwt": "^5.1.0",
     "git-http-backend": "^1.0.2",
+    "jsonwebtoken": "^7.1.9",
+    "jwt-simple": "^0.5.1",
     "node-fetch": "^1.6.3",
+    "nohm": "^0.9.8",
     "shelljs": "^0.7.5",
     "uuid": "^3.0.0"
   }
